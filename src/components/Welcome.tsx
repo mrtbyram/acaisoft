@@ -14,7 +14,7 @@ const Welcome = () => {
                   and reliable a solution for a business requires wide variety of 
                   experience and excessive qualifications. AcaiSoft's goal is to 
                   meet these requirements for companies of all sizes in the UK at an affordable price. </p>
-                <a href="#features" className="main-button-slider">Discover More</a>
+                <a href="#about" className="main-button-slider">Discover More</a>
               </div>
             </div>
           </div>

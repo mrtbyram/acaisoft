@@ -16,11 +16,8 @@ const Header = () => {
                     {/* ***** Menu Start ***** */}
                     <ul className="nav">
                     <li><a href="#welcome" className="active">Home</a></li>
-                    <li><a href="#features">About</a></li>
-                    <li><a href="#work-process">Work Process</a></li>
-                    <li><a href="#testimonials">Testimonials</a></li>
-                    <li><a href="#pricing-plans">Pricing Tables</a></li>
-                    <li><a href="#blog">Blog Entries</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#toolbox">Toolbox</a></li>
                     <li><a href="#contact-us">Contact Us</a></li>
                     </ul>
                     {/* ***** Menu End ***** */}
