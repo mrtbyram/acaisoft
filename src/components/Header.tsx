@@ -9,7 +9,7 @@ const Header = () => {
                 <div className="col-12">
                 <nav className="main-nav">
                     {/* ***** Logo Start ***** */}
-                    <a href="#" className="logo">
+                    <a href="#welcome" className="logo">
                         <img src="assets/images/logo-small.png" alt="AcaiSoft"/>
                     </a>
                     {/* ***** Logo End ***** */}
@@ -23,9 +23,6 @@ const Header = () => {
                     <li><a href="#blog">Blog Entries</a></li>
                     <li><a href="#contact-us">Contact Us</a></li>
                     </ul>
-                    <a className="menu-trigger">
-                    <span>Menu</span>
-                    </a>
                     {/* ***** Menu End ***** */}
                 </nav>
                 </div>

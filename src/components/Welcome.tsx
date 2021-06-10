@@ -7,10 +7,13 @@ const Welcome = () => {
         <div className="header-text">
           <div className="container">
             <div className="row">
-              <div className="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                <h1>We provide the best <strong>strategy</strong><br />to grow up your <strong>business</strong></h1>
-                <p>Softy Pinko is a professional Bootstrap 4.0 theme designed by Template Mo 
-                  for your company at absolutely free of charge</p>
+              <div className="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
+                <h1>We provide the best <strong>consultancy</strong><br />to grow up your <strong>projects</strong></h1>
+                <p>In today’s world, almost all the companies need software to run their 
+                  business in a competitive market. Implementing a robust, sustainable 
+                  and reliable a solution for a business requires wide variety of 
+                  experience and excessive qualifications. AcaiSoft's goal is to 
+                  meet these requirements for companies of all sizes in the UK at an affordable price. </p>
                 <a href="#features" className="main-button-slider">Discover More</a>
               </div>
             </div>
